@@ -6,6 +6,16 @@ This repo is for documenting and discussing how we organize ourselves, including
 
 ## Members
 
+### Permissions & Visibility
+
++ All repos under this organization are "private" an thus only visible for
+  members of this GitHub Organization (but see [Attention](#Attention))
+
++ All members of this organization have
+  ["admin"](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization)
+  access to all repositories. This is convenient but allows for potentially
+  destructive actions. <mark>Please take care</mark>.
+
 ## Attention
 
 ## Topics
